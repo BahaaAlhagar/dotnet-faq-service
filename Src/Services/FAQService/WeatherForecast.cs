@@ -1,4 +1,4 @@
-namespace FAQ;
+namespace FAQService;
 
 public class WeatherForecast
 {

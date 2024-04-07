@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/var/dotnet/faq/Src/Services/FAQ/FAQ.csproj": {}
+    "/var/dotnet/faq/Src/Services/FAQService/FAQ.csproj": {}
   },
   "projects": {
-    "/var/dotnet/faq/Src/Services/FAQ/FAQ.csproj": {
+    "/var/dotnet/faq/Src/Services/FAQService/FAQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/dotnet/faq/Src/Services/FAQ/FAQ.csproj",
+        "projectUniqueName": "/var/dotnet/faq/Src/Services/FAQService/FAQ.csproj",
         "projectName": "FAQ",
-        "projectPath": "/var/dotnet/faq/Src/Services/FAQ/FAQ.csproj",
+        "projectPath": "/var/dotnet/faq/Src/Services/FAQService/FAQ.csproj",
         "packagesPath": "/home/selo/.nuget/packages/",
-        "outputPath": "/var/dotnet/faq/Src/Services/FAQ/obj/",
+        "outputPath": "/var/dotnet/faq/Src/Services/FAQService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/selo/.nuget/NuGet/NuGet.Config"

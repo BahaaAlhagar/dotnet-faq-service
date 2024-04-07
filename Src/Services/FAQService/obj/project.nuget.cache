@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVgZTQv6CRZ1VCwjhK4OpFyYBfzLvE/6O8/aqkCVgaW3D6xtaT1mFfS6Mgd7sC8nNtzNOMiQ9Xn5zzdWhUwrAg==",
+  "dgSpecHash": "Yf2MtZ7Zy+0HEXwofDsgBJ4Wwi5DDotjEEaf4M3wWO6mHuUy6YtKtk6UXWHZF977bqvR/oAIZ7Z/mTgjBCyEcQ==",
   "success": true,
-  "projectFilePath": "/var/dotnet/faq/Src/Services/FAQ/FAQ.csproj",
+  "projectFilePath": "/var/dotnet/faq/Src/Services/FAQService/FAQ.csproj",
   "expectedPackageFiles": [
     "/home/selo/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/home/selo/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

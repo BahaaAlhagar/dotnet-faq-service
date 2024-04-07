@@ -22,4 +22,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MapGet("/", ()  =>  "Hello wor");
 app.Run();

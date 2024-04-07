@@ -20,25 +20,25 @@ namespace FAQService.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<FAQ>>> GetFAQs()
+        public async Task<ActionResult<IEnumerable<FAQModel>>> GetFAQs()
         {
             // Get all FAQs
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<FAQ>> GetFAQ(int id)
+        public async Task<ActionResult<FAQModel>> GetFAQ(int id)
         {
             // Get a specific FAQ by id
         }
 
         [HttpPost]
-        public async Task<ActionResult<FAQ>> CreateFAQ(FAQ faq)
+        public async Task<ActionResult<FAQModel>> CreateFAQ(FAQModel faq)
         {
             // Create a new FAQ
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateFAQ(int id, FAQ faq)
+        public async Task<IActionResult> UpdateFAQ(int id, FAQModel faq)
         {
             // Update an existing FAQ
         }

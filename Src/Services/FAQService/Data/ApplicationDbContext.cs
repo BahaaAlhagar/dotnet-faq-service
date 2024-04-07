@@ -10,6 +10,6 @@ namespace FAQService.Data
         {
         }
 
-        public DbSet<FAQ> FAQs { get; set; }
+        public DbSet<FAQModel> FAQs { get; set; } // Renamed the property to FAQs
     }
 }
